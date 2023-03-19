@@ -8,6 +8,8 @@ conf-sg.dc.heytapmobi.com
 vip-client.heytapmobi.com
 dragate-sg.dc.heytapmobi.com
 appconf.heytapdownload.com
+api-gl.cdo.heytapmobi.com	
+mdp-appconf-ph.heytapdl.com	
 dcintl.push.heytapmobile.com
 appconf-eu.heytapmobile.com
 open.heytapmobile.com
