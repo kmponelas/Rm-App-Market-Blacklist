@@ -1,3 +1,11 @@
+ads-bdapi-ph.heytapmobile.com
+obus-dc2-sg.heytapmobile.com
+appconf-ocs-sgp.heytapdl.com
+obus-sg.dc.heytapmobile.com
+album-sg01a.ocloud.heytapmobi.com
+api-gl.cdo.heytapmobile.com
+api-ph.game.heytapmobi.com
+api-gl.cdo.heytapmobile.com
 actimg.heytapimg.com
 static-common.heytapdownload.com
 static-common.heytapdl.com
