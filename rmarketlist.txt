@@ -1,3 +1,16 @@
+actimg.heytapimg.com
+static-common.heytapdownload.com
+static-common.heytapdl.com
+captcha-sgp-sec.heytapmobile.com
+obus-jssdk-sg.heytapmobile.com
+event-sg-dc.heytapmobile.com
+jscatch-sg-frontend.heytapmobile.com
+appconf-ocs-in.heytapdl.com
+mdp-appconf-in.heytapdl.com
+ocs-cn-north1.heytapcs.com
+games-community-sg.heytapmobile.com
+gameimg.heytapimg.com
+storeimg.heytapimg.com
 adx-id.ads.heytapmobile.com
 cl-data-sg.ads.heytapmobi.com
 conf-sg-dc.heytapdl.com
