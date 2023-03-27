@@ -1,3 +1,10 @@
+gslb-gl.cdo.heytapmobi.com
+appconf-ocs-us.heytapdl.com
+appconf-us.heytapdl.com
+slb-apisnd-in.heytapmobile.com
+browser-iflow-ph.heytapmobile.com
+mdp-appconf-us.heytapdl.com
+incdopic.heytapimg.com
 ads-bdapi-ph.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
 appconf-ocs-sgp.heytapdl.com
