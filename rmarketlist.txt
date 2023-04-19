@@ -1,3 +1,6 @@
+browserfiles.heytapimg.com
+obus-dctech-sg.heytapmobile.com
+obus-dc20305-sg.heytapmobile.com
 gslb-gl.cdo.heytapmobi.com
 appconf-ocs-us.heytapdl.com
 appconf-us.heytapdl.com
