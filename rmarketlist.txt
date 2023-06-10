@@ -1,3 +1,11 @@
+ilockcardf.realme.com
+dcintl1.push.heytapmobile.com
+img-intl-push.heytapimg.com
+httpdns.ocloud.heytapmobi.com
+aps-sport.health.heytapmobile.com
+games-common-sg.heytapmobile.com
+api-ph.theme.heytapmobile.com
+dragate-sg.dc.oppomobile.com
 obus-dc20123-sg.heytapmobile.com
 browser-cloudi-ph.heytapmobile.com
 dhfs-ph.heytapimage.com
