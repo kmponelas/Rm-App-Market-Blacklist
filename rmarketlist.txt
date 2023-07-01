@@ -1,3 +1,5 @@
+ocloud-album-sg.heytapmobile.com
+ocloud-uni-ph.heytapmobile.com
 ocloud-api-sg.heytapmobile.com
 ilockcardf.realme.com
 dcintl1.push.heytapmobile.com
