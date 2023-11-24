@@ -1,3 +1,8 @@
+social.levect.com
+levect.com
+92image.levect.com
+92.levect.com
+mdp-upgrade-gl.heytapmobile.com
 ocloud-album-sg.heytapmobile.com
 ocloud-uni-ph.heytapmobile.com
 ocloud-api-sg.heytapmobile.com
